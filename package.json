@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_unit-test-b2-ynov",
+  "version": "1.0.0",
+  "description": "Some basic unit test in NodeJS using chai and mocha",
+  "main": "unit-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrZyr0/NodeJS_unit-test-B2-YNOV.git"
+  },
+  "keywords": [
+    "unit-test",
+    "mocha",
+    "chai"
+  ],
+  "author": "Julien SEIXAS (Zyr0)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrZyr0/NodeJS_unit-test-B2-YNOV/issues"
+  },
+  "homepage": "https://github.com/MrZyr0/NodeJS_unit-test-B2-YNOV#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "request": "^2.88.0"
+  }
+}
